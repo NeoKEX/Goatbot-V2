@@ -1,5 +1,5 @@
 {
-  "facebookAccount": {
+  "facebookAccount": {https://www.facebook.com/profile.php?id=100090622939536
     "email": "",
     "password": "",
     "2FASecret": "",
@@ -21,13 +21,13 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "61588057525081"
+    "100090622939536"
   ],
   "premiumUsers": [
-    "61588057525081"
+    "100090622939536"
   ],
   "devUsers": [
-    "61588057525081"
+    "100090622939536"
   ],
   "notes_premiumUsers": "List of user IDs with premium access (role 3)",
   "notes_devUsers": "List of developer IDs with full access (role 4)",
