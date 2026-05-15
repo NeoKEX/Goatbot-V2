@@ -12,7 +12,7 @@
   "antiInbox": false,
   "language": "en",
   "notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-  "nickNameBot": "গেসুকে 😈",
+  "nickNameBot": "KING😈",
   "prefix": "~",
   "noPrefix": true,
   "noPrefixNotes": "When true, Bot Admins (role 2) and Developers (role 4) can run commands without the prefix",
@@ -21,13 +21,13 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "61588057525081"
+    " KING.4820"
   ],
   "premiumUsers": [
-    "61588057525081"
+    "KING.4820"
   ],
   "devUsers": [
-    "61588057525081"
+    "KING.4820"
   ],
   "notes_premiumUsers": "List of user IDs with premium access (role 3)",
   "notes_devUsers": "List of developer IDs with full access (role 4)",
